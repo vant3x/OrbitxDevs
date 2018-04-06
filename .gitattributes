@@ -1,3 +1,2 @@
-nguist-language=JavaScript
+*.html linguist-language=JavaScript
 *.Rmd linguist-language=JavaScript
-
