@@ -1,0 +1,56 @@
+// Colors
+$blue1: #4384FB;
+$lightblue: #70A7F1;
+$lightblu2: #80D0F0;
+$lblue3:#77bbf0;
+$darkblue: #142C48;
+$drkblue3:#0b1b41;
+$darkbl2:#28324A;
+$gry3blue:#334252;
+$gry4blue:#153962;
+$grey: #6D7A8A;
+$gry2:#6c748c;
+$grey2:#e6ecf8;
+$green: #138175;
+$lightred:#E40454;
+$lightpink:#EE4364;
+$purple: #5C04FC;
+$white: #fff;
+$black: #000;
+$blackopacity: rgba(0,0,0,0.4);
+
+// fonts
+$small: 16px;
+$medium: 20px;
+$big: 38px;
+
+$large-padding: 10px 15px;
+$big-padding: 20px 30px;
+
+$default-margin-top: 30px;
+$big-margin-top: 90px;
+
+$border-radius: 4px;
+
+// gradients -------------
+    // 1
+$gradientazul12-olds: #36D1DC;
+$gradientazul1:-webkit-linear-gradient(to right, #5B86E5, #36D1DC);
+$gradientazul2:linear-gradient(to right, #5B86E5, #36D1DC);
+
+    // 2
+$gradient2-olds: #43cea2; /* fallback for old browsers */
+$gradient2-1:-webkit-linear-gradient(to right, #43cea2, #185a9d); /* Chrome 10-25, Safari 5.1-6 */
+$gradient2-2:linear-gradient(to right, #43cea2, #185a9d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    // 3
+$gradient3-olds: #7474BF;  /* fallback for old browsers */
+$gradient3-1:-webkit-linear-gradient(to right, #348AC7, #7474BF);  /* Chrome 10-25, Safari 5.1-6 */
+$gradient3-2:linear-gradient(to right, #348AC7, #7474BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    // 4
+
+$gradient4-olds: #1FA2FF;  /* fallback for old browsers */
+$gradient4-1:-webkit-linear-gradient(to right, #A6FFCB, #12D8FA, #1FA2FF);  /* Chrome 10-25, Safari 5.1-6 */
+$gradient4-2:linear-gradient(to right, #A6FFCB, #12D8FA, #1FA2FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    

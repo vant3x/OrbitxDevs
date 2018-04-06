@@ -1,0 +1,28 @@
+{
+  "name": "orbitxdevs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --open --config webpack/webpack.dev.js",
+    "build": "webpack --config webpack/webpack.prod.js"
+  },
+  "author": "Alejandro VM",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "0.28.9",
+    "html-webpack-plugin": "2.30.0",
+    "node-sass": "4.7.2",
+    "sass-loader": "6.0.6",
+    "style-loader": "0.19.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "2.11.1"
+  },
+  "dependencies": {
+    "extract-text-webpack-plugin": "3.0.2",
+    "html-loader": "^0.5.5",
+    "url-loader": "0.6.2",
+    "webpack-merge": "^4.1.2"
+  }
+}
